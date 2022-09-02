@@ -4,7 +4,7 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"MaintenancePlan": {
-		"MaintenancePlan": "1",
+		"MaintenancePlan": "",
 		"MaintenancePlanDesc": "",
 		"CreationDate": "",
 		"LastChangeDate": "",
@@ -113,8 +113,8 @@
 			}
 		}
 	},
-	"api_schema": "MaintenancePlan",
+	"api_schema": "SAPMaintenancePlanCreates",
 	"accepter": ["Header"],
-	"maintenance_plan": "1",
+	"maintenance_plan": "",
 	"deleted": false
 }
